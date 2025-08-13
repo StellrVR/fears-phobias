@@ -1,0 +1,51 @@
+- ***Jokers*** (alphabetical order)
+  - Acrophobia - *Fear of heights*
+  - Ailurophobia - *Fear of cats*
+  - Anthophobia - *Fear of flowers*
+  - Arachnophobia - *Fear of spiders*
+  - Astrophobia - *Fear of outer space*
+  - Atychiphobia - *Fear of failure*
+  - Cacophobia - *Fear of ugliness*
+  - Catoptrophobia - *Fear of mirrors*
+  - Chiroptophobia - *Fear of bats*
+  - Claustrophobia - *Fear of confined spaces*
+  - Coulrophobia - *Fear of clowns*
+  - Cynophobia - *Fear of dogs*
+  - Entomophobia - *Fear of insects*
+  - Germophobia - *Fear of germs/bacteria*
+  - Glossophobia - *Fear of public speaking*
+  - Heliophobia - *Fear of light*
+  - Hemophobia - *Fear of blood*
+  - Hippopotomonstrosesquippedaliophobia - *Fear of long words*
+  - Kenophobia - *Fear of empty spaces*
+  - Megalophobia - *Fear of large objects*
+  - Monophobia - *Fear of being alone*
+  - Nosocomephobia - *Fear of hospitals*
+  - Nyctophobia - *Fear of the dark*
+  - Ophidiophobia - *Fear of snakes*
+  - Pantophobia - *Fear of everything*
+  - Phasmophobia - *Fear of ghosts*
+  - Phonophobia - *Fear of loud sounds*
+  - Pluviophobia - *Fear of rain*
+  - Pogonophobia - *Fear of beards/facial hair*
+  - Pyrophobia - *Fear of fire*
+  - Selenophobia - *Fear of the moon*
+  - Somniphobia - *Fear of sleep*
+  - Technophobia - *Fear of technology*
+  - Thalassophobia - *Fear of the ocean*
+  - Thanatophobia - *Fear of death*
+  - Trypophobia - *Fear of repeated patterns or holes*
+ 
+- ***Consumables*** (alphabetical order)
+  - Cold Sweat (Tarot)
+  - Cosmic Terror (Planet)
+  - Dreadful Pulse (Spectral)
+  - Night Terror (Spectral)
+  - Panic Attack (Tarot)
+  - Paranoia (Tarot)
+  - Seance (Spectral)
+ 
+- ***Enhancements*** (alphabetical order)
+  - Cursed
+  - Haunted
+  - Petrified

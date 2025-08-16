@@ -21,8 +21,8 @@ SMODS.Joker{ --Phasmophobia
         x = 9,
         y = 2
     },
-    cost = 12,
-    rarity = 4,
+    cost = 15,
+    rarity = 3,
     blueprint_compat = true,
     eternal_compat = true,
     perishable_compat = true,

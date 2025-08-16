@@ -43,9 +43,17 @@
   - Night Terror (Spectral)
   - Panic Attack (Tarot)
   - Paranoia (Tarot)
-  - Seance (Spectral)
+  - Ritual (Spectral)
+  - Blood Pact (Spectral)
+  - Cemetery (Spectral)
+  - Deep Breaths (Spectral)
  
 - ***Enhancements*** (alphabetical order)
   - Cursed
   - Haunted
   - Petrified
+ 
+- ***Seals*** (alphabetical order)
+  - Blood Seal
+  - Grave Seal
+  - Panic Seal

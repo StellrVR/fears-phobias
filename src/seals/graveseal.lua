@@ -12,7 +12,7 @@ SMODS.Seal {
         label = 'Grave Seal',
         text = {
         [1] = 'When this card is discarded,',
-        [2] = '{C:green} #1# in #8#{} chance to create',
+        [2] = '{C:green} #1# in 8{} chance to create',
         [3] = 'a random {C:rare}Rare{} Joker',
         [4] = '{C:inactive}(Must have room){}'
     }
@@ -26,7 +26,7 @@ SMODS.Seal {
         return {vars = {numerator, denominator}}
     end,
     calculate = function(self, card, context)
-        if context.discard and context.other_card == card  then
+        if context.discard and context.other_card == card then
             if SMODS.pseudorandom_probability(card, 'group_0_acfd8773', 1, card.ability.seal.extra.odds, 'm_fearspho') then
                 local created_joker = false
                 if #G.jokers.cards + G.GAME.joker_buffer < G.jokers.config.card_limit then

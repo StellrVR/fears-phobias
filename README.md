@@ -8,3 +8,5 @@ You can find them [here](https://github.com/StellrVR/fears-phobias/blob/main/all
 
 
 Any and all issues and submissions should be posted in the [Issues](https://github.com/StellrVR/fears-phobias/issues) page
+
+**Also available on Balatro Mod Manager!**

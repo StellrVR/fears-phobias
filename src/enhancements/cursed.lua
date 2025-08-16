@@ -2,6 +2,7 @@ SMODS.Enhancement {
     key = 'cursed',
     pos = { x = 0, y = 0 },
     config = {
+        bonus = -50,
         extra = {
             x_mult = 1.5
         }
@@ -9,7 +10,8 @@ SMODS.Enhancement {
     loc_txt = {
         name = 'Cursed',
         text = {
-        [1] = 'Apply {X:red,C:white}X1.5{} {C:red}Mult{}'
+        [1] = 'Apply {X:red,C:white}X1.5{} {C:red}Mult{}',
+        [2] = 'but subtract {C:blue}-50 Chips{}'
     }
     },
     atlas = 'CustomEnhancements',
